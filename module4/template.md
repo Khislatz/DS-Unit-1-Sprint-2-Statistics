@@ -7,8 +7,8 @@ working on for your project week.
 
 
 # Ideas for data storytelling - Idea 1
+GMO in the USA compared to GMO in Europe
 
-## You
 
 What do you care about?
 
